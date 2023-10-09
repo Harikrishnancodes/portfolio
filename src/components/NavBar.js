@@ -50,9 +50,9 @@ function NavBar() {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-                <a href="https://www.linkedin.com/in/sankar-dev-s-161002245/"><img src={navIcon1} alt="" /></a>
-                <a href="https://www.facebook.com/profile.php?id=100081139895525"><img  src={navIcon2} alt="" /></a>
-                <a href="https://instagram.com/san.kar____?igshid=YmMyMTA2M2Y="><img src={navIcon3} alt="" /></a>
+                <a href="https://www.linkedin.com/in/harikrishnan-h-298127282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src={navIcon1} alt="" /></a>
+                <a href="https://www.facebook.com/profile.php?id=100007952883669&mibextid=LQQJ4d"><img  src={navIcon2} alt="" /></a>
+                <a href="https://instagram.com/_hariie._?igshid=NGVhN2U2NjQ0Yg=="><img src={navIcon3} alt="" /></a>
             </div>
             <button className='vvd' onClick={() =>{
               window.location.href='#contact'

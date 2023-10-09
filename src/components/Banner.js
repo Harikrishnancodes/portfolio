@@ -64,7 +64,7 @@ function Banner() {
                     <h1>{`Hi i'm Sankar `} <span className='wrap'>{text}</span></h1>
                     
                     <p>You are the average of 5 people you hang around</p>
-                    <p className='new-txt'>- sankar</p>
+                    <p className='new-txt'>- Harikrishnan H</p>
                   
                     <button onClick={()=>{
                         window.location.href="#contact"
